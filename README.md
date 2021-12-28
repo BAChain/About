@@ -1,4 +1,3 @@
 # About
 
-![image](https://user-images.githubusercontent.com/25296268/147594275-a44ed3bc-9eb5-49b1-baeb-881a08af115a.png)
-
+![Screenshot 2021-12-28 at 19 10 45](https://user-images.githubusercontent.com/43410592/147594750-862db36f-e07a-472d-99d5-d706eea75383.png)
